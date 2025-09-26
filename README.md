@@ -1,6 +1,4 @@
 Homesphare
 
-Modify
-=======
-abc
+This is homesphare page policies 
 
